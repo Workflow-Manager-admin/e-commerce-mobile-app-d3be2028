@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/e-commerce-mobile-app-d3be2028/ecommerce_frontend"
+}
